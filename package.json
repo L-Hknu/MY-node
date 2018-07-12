@@ -1,0 +1,24 @@
+{
+  "name": "my-node",
+  "version": "1.0.0",
+  "description": "node初体验",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/L-Hknu/MY-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/L-Hknu/MY-node/issues"
+  },
+  "homepage": "https://github.com/L-Hknu/MY-node#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongodb": "^3.1.1",
+    "xtemplate": "^4.6.1"
+  }
+}
