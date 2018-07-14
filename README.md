@@ -1,5 +1,5 @@
 # node<Br/>
-<h2>node初体验</h2>
+<h2>使用node建立一个简单的管理系统</h2>
 
 
 
@@ -9,7 +9,7 @@
 
 <h4>前端使用:</h4>
 框架:bootstrap<Br/>
-库存:JQuery<Br/>
+库:JQuery<Br/>
 
 
 <h3>后端使用</h3>
